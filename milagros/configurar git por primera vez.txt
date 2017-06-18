@@ -1,0 +1,1 @@
+https://git-scm.com/book/es/v1/Empezando-Configurando-Git-por-primera-vez#Tu-identidad
