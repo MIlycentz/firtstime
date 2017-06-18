@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Filtro</string>
+    <string name="action_ajustes">Ajustes</string>
+    <string name="Seleccionar_Tipo_de_Combustible">Seleccionar Tipo de Combustible</string>
+    <string-array name="Tipo_de_Combustible">
+    <item>GNV</item>
+    <item>GLP</item>
+    <item>Gasol 90</item>
+    <item>Gasol 95</item>
+    <item>Gasol 97</item>
+    <item>Gasol 98</item>
+    </string-array>
+
+    <string name="Selecionar_Empresa_Gasolinera">Selecciona Empresa Gasolinera</string>
+    <string-array name="Empresa_Gasolinera">
+    <item>Petro Perú</item>
+    <item>Primax</item>
+    <item>Repsol</item>
+    <item>Pecsa</item>
+    <item>Gazel</item>
+    </string-array>
+
+
+    <string name="Selecionar_Orden_de_Precios">Seleccionar Orden de Precios</string>
+    <string-array name="Orden_Precios">
+    <item>Mayor a Menor</item>
+    <item>Menor a Mayor</item>
+    </string-array>
+
+
+    <string name="Buscar"></string>
+
+
+
+
+
+
+
+
+
+
+</resources>

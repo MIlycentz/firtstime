@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ajustes</string>
+    <string name="str_button">Cambiar Idioma</string>
+    <string name="str_en">English</string>
+    <string name="str_es">Español</string>
+    <string-array name="Idiomas">
+        <item>@string/str_en</item>
+        <item>@string/str_es</item>
+    </string-array>
+    </resources>

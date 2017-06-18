@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ajustes</string>
+    <string name="str_button">Cambiar Idioma</string>
+    <string name="str_en">Inglés</string>
+    <string name="str_es">Español</string>
+</resources>

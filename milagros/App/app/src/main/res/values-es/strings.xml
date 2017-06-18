@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filtro</string>
+    <string name="Buscar">Buscar</string>
+    <string name="Seleccionar_Tipo_de_Combustible">Seleccionar Tipo de Combustible</string>
+    <string name="Selecionar_Empresa_Gasolinera">Selecciona Empresa Gasolinera</string>
+    <string name="Selecionar_Orden_de_Precios">Seleccionar Orden de Precios</string>
+    <string name="action_ajustes">Ajustes</string>
+</resources>

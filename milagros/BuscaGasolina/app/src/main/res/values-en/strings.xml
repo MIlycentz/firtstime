@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Search Gasoline</string>
+    <string name="Ajustes">Settings</string>
+    <string name="Favoritos">Favorites</string>
+    <string name="Filtrar">Filter</string>
+    <string name="inicio">Start</string>
+</resources>

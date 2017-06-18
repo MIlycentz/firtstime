@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Busca Gasolina</string>
+    <string name="inicio">Inicio</string>
+    <string name="Filtrar">Filtrar</string>
+    <string name="Favoritos">Favoritos</string>
+    <string name="Ajustes">Ajustes</string>
+</resources>
